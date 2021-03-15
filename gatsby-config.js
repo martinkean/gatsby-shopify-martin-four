@@ -48,7 +48,7 @@ module.exports = {
         // to select "Allow this app to access your storefront data using the
         // Storefront API".
         // See: https://help.shopify.com/api/custom-storefronts/storefront-api/getting-started#authentication
-        accessToken:"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",
+        accessToken:"50d6e7ade3932c7c37b69c28c55f6815",
 
         // Set verbose to true to display a verbose output on `npm run develop`
         // or `npm run build`. This prints which nodes are being fetched and how
